@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-au">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>Starbuzz Coffee's Mission</title>
+    <style type="text/css">
+      
+      body{
+       background-color: #d2b48c;
+       margin-left: 20%;
+       margin-right: 20%;
+       border: 2px dotted black;			
+       padding: 10px 10px 10px 10px;
+       font-family: sans-serif;
+      }
+    
+    </style>
+  </head>
+  <body>
+    <h1>Starbuzz Coffee's Mission</h1>
+    <p>To provide all the caffeine that you need to power your life Just drink
+      it.</p>
+    
+  </body>
+</html>
